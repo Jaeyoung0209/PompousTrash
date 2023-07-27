@@ -9,4 +9,4 @@ Overall Positives:
   
 Negatives:
 * Needs a tutorial
-* Requires a better objective
+* Requires a better objective of the game rather than simply trying to stay alive
